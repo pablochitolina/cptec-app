@@ -1,0 +1,184 @@
+﻿<!--
+  This view is for weather_1 state (app.js)
+  cities is a $scope variable from WeatherCtrl (controllers.js)
+  Cities service provides list of cities (service.js)
+  getMainWeekdayAndDate(), getTemp(), convertWindDirection(), getWeekday() are $scope functions come from WeatherCtrl
+-->
+<ion-view view-title="{{ dataPrevisao }}">
+    <ion-content ng-init="numSlide = 0" class=" weather weather-1" overflow-y="auto">
+        <ion-scroll direction="y">
+            <div style="padding-bottom: 0px;" class="weather-header padding-top text-center light-bg">
+<div style="background-image: url(img/back/night.jpg); margin-top: -15px;">
+                <div ng-init="indexPrev = $index" class="padding">
+                    <span class="text-middle borda text-2x" style="color: #000"><strong>AGORA</strong></span>
+
+                </div>
+
+                <div style="color: #000" class="weather-temp padding-bottom">
+                    <span class="text-5x text-top borda">{{ dados[0].data.tp2m }}</span>
+                    <i class="borda wi wi-celsius text-3x text-top"></i>
+                </div>
+                <div class="row "  style="background-color: rgba(255,255,255,0.5);" >
+                    <div class="col col-25">
+                        <img src="img/ocisb.png" style="height: 20px;" /></br>{{ dados[0].data.ocis }}&nbsp;mm
+                    </div>
+                    <div class="col col-25">
+                        <img src="img/precb.png" style="height: 20px;" /></br>{{ dados[0].data.prec }}&nbsp;km/h
+                    </div>
+                    <div class="col col-25">
+                        <img src="img/ur2mb.png" style="height: 20px;" /></br>{{ dados[0].data.ur2m }}&nbsp;%
+                    </div>
+                    <div class="col col-25">
+                        <img src="img/v10mb.png" style="height: 20px;" /></br>{{ dados[0].data.v10m }}&nbsp;uv
+                    </div>
+
+                </div>
+</div>
+                <ion-slide-box active-slide="selectedSlide" on-slide-changed="slideTo($index);">
+                    <ion-slide ng-if="mostraHJ">
+                        <div class="row cor{{selectedSlide}}">
+                            <div class="col col-10">
+                                <button class="button button-clear button-dark icon-left ion-arrow-left-b" ng-show="mostraIni" ng-click="prevSlide();" ></button>
+                                <button class="button button-clear button-light" ng-show="!mostraIni" ></button>
+                            </div>
+                            <div class="col col-80">
+
+                                <span class="text-middle" style="font-size: 220%"><strong>Hoje</strong></span>
+                            </div>
+                            <div class="col col-10">
+                                <button class="button button-clear button-dark icon-left ion-arrow-right-b" ng-show="mostraFim" ng-click="nextSlide();"  ></button>
+                                <button class="button button-clear button-dark" ng-show="!mostraFim" ></button>
+                            </div>
+
+                        </div>
+                    </ion-slide>
+                    <ion-slide ng-if="info.hr === '00';" ng-repeat="info in dados">
+                        <div class="row cor{{selectedSlide}}">
+                            <div class="col col-10">
+                                <button class="button button-clear button-dark icon-left ion-arrow-left-b" ng-show="mostraIni" ng-click="prevSlide();"  ></button>
+                                <button class="button button-clear button-dark" ng-show="!mostraIni" ></button>
+                            </div>
+                            <div class="col col-80">
+
+                                <span class="text-middle" style="font-size: 220%"><strong>{{info.dia}}/{{info.mes}}</strong></span>
+                            </div>
+                            <div class="col col-10">
+                                <button class="button button-clear button-dark icon-left ion-arrow-right-b" ng-show="mostraFim" ng-click="nextSlide();"  ></button>
+                                <button class="button button-clear button-dark" ng-show="!mostraFim" ></button>
+                                
+                            </div>
+
+                        </div>
+                    </ion-slide>
+
+                </ion-slide-box>
+
+            </div>
+
+            <div class="row">
+                <div class="col col-10">
+
+                    <div in-view="inview(info.dia, $inview);" style="height: 25px; line-height: 25px; text-align: center;   ">
+                        <img src="img/clock.png" style="background-color: {{corBack}}; height: 20px;" />
+                    </div>
+                    <div style="height: 25px;line-height: 25px; text-align: center;">
+                        <img src="img/tp2m.png" style="background-color: {{corBack}}; height: 20px;" />
+                    </div>
+                    <div style="height: 20px; line-height: 20px; text-align: center;">
+                        <img src="img/ocis.png" style="background-color: {{corBack}}; height: 15px;" />
+                    </div>
+                    <div style="height: 20px; line-height: 20px; text-align: center;">
+                        <img src="img/prec.png" style="background-color: {{corBack}}; height: 15px;" />
+                    </div>
+                    <div style="height: 20px; line-height: 20px; text-align: center;">
+                        <img src="img/ur2m.png" style="background-color: {{corBack}}; height: 15px;" />
+                    </div>
+                    <div style="height: 20px; line-height: 20px; text-align: center;">
+                        <img src="img/v10m.png" style="background-color: {{corBack}}; height: 15px;" />
+                    </div>
+
+                </div>
+                <div class="col col-90">
+                    <ion-scroll direction="x">
+                        <div class="row" style="padding: 0; color: #505050">
+
+                            <div style="min-width: {{minWidth}}%;text-align: {{alinhamento}};" ng-repeat="info in dadosSlide ">
+                                <div in-view="inview(info.dia, $inview);" style="height: 25px; line-height: 25px;">
+                                    <strong style="margin-left: 10px">{{parseInt(info.hr)}}:00</strong>
+                                </div>
+                                <div style="height: 25px; background-color: #f8f8f8; line-height: 25px;">
+                                    <strong style="margin-left: 10px">{{ info.data.tp2m }}&nbsp;<i style="font-size: 65%; margin-top: 5px" class="wi wi-celsius text-top"></i></strong>
+                                </div>
+                                <div style="height: 20px; line-height: 20px;">
+                                    <p style="margin-left: 10px">{{ info.data.ocis }}<span style="font-size: 65%">&nbsp;mm</span></p>
+                                </div>
+                                <div style="height: 20px;background-color: #f8f8f8; line-height: 20px;">
+                                    <p style="margin-left: 10px">{{ info.data.prec }}<span style="font-size: 65%">&nbsp;km/h</span></p>
+                                </div>
+                                <div style="height: 20px; line-height: 20px;">
+                                    <p style="margin-left: 10px">{{ info.data.ur2m }}<span style="font-size: 65%">&nbsp;%</span></p>
+                                </div>
+                                <div style="height: 20px;background-color: #f8f8f8; line-height: 20px;">
+                                    <p style="margin-left: 10px">{{ info.data.v10m }}<span style="font-size: 65%">&nbsp;uv</span></p>
+                                </div>
+
+                            </div>
+
+
+                        </div>
+
+                    </ion-scroll>
+                </div>
+            </div>
+
+        </ion-scroll>
+
+        <script id="image-modal.html" type="text/ng-template">
+
+              <div class="modal transparent" >
+                 
+                  <div class="fullscreen-div ">
+                      <button ng-click="closeModal()" style="float: right;" class="button button button-assertive ">X</button>
+                     <canvas id="line" class="chart chart-line" chart-data="data" chart-labels="labels" chart-series="series"  chart-click="onClick" /> 
+                     
+                     
+                     <div class="item item-checkbox" ng-click="check(0)">
+                        <label class="checkbox">
+                            <input type="checkbox" ng-checked="arrayGraph[0]">
+                        </label>
+                        Temperatura
+                    </div>
+                    <div class="item item-checkbox" ng-click="check(1)">
+                        <label class="checkbox">
+                            <input type="checkbox" ng-checked="arrayGraph[1]">
+                        </label>
+                        Precipitação
+                    </div>
+                    <div class="item item-checkbox" ng-click="check(2)">
+                        <label class="checkbox">
+                            <input type="checkbox" ng-checked="arrayGraph[2]">
+                        </label>
+                        Umidade
+                    </div>
+                    <div class="item item-checkbox" ng-click="check(3)">
+                        <label class="checkbox">
+                            <input type="checkbox" ng-checked="arrayGraph[3]">
+                        </label>
+                        Vento
+                    </div>
+                    <div class="item item-checkbox" ng-click="check(4)">
+                        <label class="checkbox">
+                            <input type="checkbox" ng-checked="arrayGraph[4]">
+                        </label>
+                        Radiação
+                    </div>
+                  </div>
+                  
+              </div>
+          </script>
+
+
+        <!-- end slide box -->
+
+    </ion-content>
+</ion-view>

@@ -1,0 +1,2881 @@
+[{
+    "datetime": 2016102300,
+    "data": {
+      "ocis": 24,
+      "prec": 35,
+      "tp2m": 2,
+      "ur2m": 23,
+      "v10m": 36
+    }
+  },
+  {
+    "datetime": 2016102301,
+    "data": {
+      "ocis": 34,
+      "prec": 21,
+      "tp2m": 8,
+      "ur2m": 18,
+      "v10m": 15
+    }
+  },
+  {
+    "datetime": 2016102302,
+    "data": {
+      "ocis": 33,
+      "prec": 49,
+      "tp2m": 22,
+      "ur2m": 76,
+      "v10m": 65
+    }
+  },
+  {
+    "datetime": 2016102303,
+    "data": {
+      "ocis": 74,
+      "prec": 70,
+      "tp2m": 13,
+      "ur2m": 86,
+      "v10m": 17
+    }
+  },
+  {
+    "datetime": 2016102304,
+    "data": {
+      "ocis": 87,
+      "prec": 77,
+      "tp2m": 40,
+      "ur2m": 54,
+      "v10m": 40
+    }
+  },
+  {
+    "datetime": 2016102305,
+    "data": {
+      "ocis": 38,
+      "prec": 56,
+      "tp2m": 8,
+      "ur2m": 81,
+      "v10m": 0
+    }
+  },
+  {
+    "datetime": 2016102306,
+    "data": {
+      "ocis": 68,
+      "prec": 50,
+      "tp2m": 23,
+      "ur2m": 24,
+      "v10m": 91
+    }
+  },
+  {
+    "datetime": 2016102307,
+    "data": {
+      "ocis": 10,
+      "prec": 32,
+      "tp2m": 37,
+      "ur2m": 23,
+      "v10m": 94
+    }
+  },
+  {
+    "datetime": 2016102308,
+    "data": {
+      "ocis": 72,
+      "prec": 11,
+      "tp2m": 19,
+      "ur2m": 38,
+      "v10m": 21
+    }
+  },
+  {
+    "datetime": 2016102309,
+    "data": {
+      "ocis": 88,
+      "prec": 79,
+      "tp2m": 33,
+      "ur2m": 18,
+      "v10m": 87
+    }
+  },
+  {
+    "datetime": 2016102310,
+    "data": {
+      "ocis": 31,
+      "prec": 0,
+      "tp2m": 11,
+      "ur2m": 85,
+      "v10m": 33
+    }
+  },
+  {
+    "datetime": 2016102311,
+    "data": {
+      "ocis": 22,
+      "prec": 19,
+      "tp2m": 27,
+      "ur2m": 49,
+      "v10m": 96
+    }
+  },
+  {
+    "datetime": 2016102312,
+    "data": {
+      "ocis": 7,
+      "prec": 34,
+      "tp2m": 15,
+      "ur2m": 79,
+      "v10m": 33
+    }
+  },
+  {
+    "datetime": 2016102313,
+    "data": {
+      "ocis": 41,
+      "prec": 40,
+      "tp2m": 0,
+      "ur2m": 66,
+      "v10m": 90
+    }
+  },
+  {
+    "datetime": 2016102314,
+    "data": {
+      "ocis": 3,
+      "prec": 16,
+      "tp2m": 30,
+      "ur2m": 25,
+      "v10m": 94
+    }
+  },
+  {
+    "datetime": 2016102315,
+    "data": {
+      "ocis": 19,
+      "prec": 96,
+      "tp2m": 17,
+      "ur2m": 84,
+      "v10m": 32
+    }
+  },
+  {
+    "datetime": 2016102316,
+    "data": {
+      "ocis": 81,
+      "prec": 71,
+      "tp2m": 31,
+      "ur2m": 73,
+      "v10m": 87
+    }
+  },
+  {
+    "datetime": 2016102317,
+    "data": {
+      "ocis": 70,
+      "prec": 26,
+      "tp2m": 7,
+      "ur2m": 63,
+      "v10m": 85
+    }
+  },
+  {
+    "datetime": 2016102318,
+    "data": {
+      "ocis": 8,
+      "prec": 17,
+      "tp2m": 20,
+      "ur2m": 87,
+      "v10m": 26
+    }
+  },
+  {
+    "datetime": 2016102319,
+    "data": {
+      "ocis": 7,
+      "prec": 43,
+      "tp2m": 31,
+      "ur2m": 66,
+      "v10m": 59
+    }
+  },
+  {
+    "datetime": 2016102320,
+    "data": {
+      "ocis": 74,
+      "prec": 25,
+      "tp2m": 33,
+      "ur2m": 86,
+      "v10m": 17
+    }
+  },
+  {
+    "datetime": 2016102321,
+    "data": {
+      "ocis": 54,
+      "prec": 87,
+      "tp2m": 12,
+      "ur2m": 17,
+      "v10m": 74
+    }
+  },
+  {
+    "datetime": 2016102322,
+    "data": {
+      "ocis": 72,
+      "prec": 47,
+      "tp2m": 3,
+      "ur2m": 39,
+      "v10m": 26
+    }
+  },
+  {
+    "datetime": 2016102323,
+    "data": {
+      "ocis": 10,
+      "prec": 48,
+      "tp2m": 12,
+      "ur2m": 38,
+      "v10m": 44
+    }
+  },
+  {
+    "datetime": 2016102400,
+    "data": {
+      "ocis": 85,
+      "prec": 55,
+      "tp2m": 7,
+      "ur2m": 83,
+      "v10m": 56
+    }
+  },
+  {
+    "datetime": 2016102401,
+    "data": {
+      "ocis": 9,
+      "prec": 88,
+      "tp2m": 15,
+      "ur2m": 76,
+      "v10m": 7
+    }
+  },
+  {
+    "datetime": 2016102402,
+    "data": {
+      "ocis": 77,
+      "prec": 8,
+      "tp2m": 0,
+      "ur2m": 26,
+      "v10m": 9
+    }
+  },
+  {
+    "datetime": 2016102403,
+    "data": {
+      "ocis": 0,
+      "prec": 64,
+      "tp2m": 36,
+      "ur2m": 73,
+      "v10m": 68
+    }
+  },
+  {
+    "datetime": 2016102404,
+    "data": {
+      "ocis": 10,
+      "prec": 34,
+      "tp2m": 19,
+      "ur2m": 6,
+      "v10m": 98
+    }
+  },
+  {
+    "datetime": 2016102405,
+    "data": {
+      "ocis": 30,
+      "prec": 64,
+      "tp2m": 28,
+      "ur2m": 45,
+      "v10m": 52
+    }
+  },
+  {
+    "datetime": 2016102406,
+    "data": {
+      "ocis": 91,
+      "prec": 78,
+      "tp2m": 18,
+      "ur2m": 81,
+      "v10m": 21
+    }
+  },
+  {
+    "datetime": 2016102407,
+    "data": {
+      "ocis": 34,
+      "prec": 70,
+      "tp2m": 1,
+      "ur2m": 40,
+      "v10m": 90
+    }
+  },
+  {
+    "datetime": 2016102408,
+    "data": {
+      "ocis": 32,
+      "prec": 62,
+      "tp2m": 6,
+      "ur2m": 99,
+      "v10m": 80
+    }
+  },
+  {
+    "datetime": 2016102409,
+    "data": {
+      "ocis": 71,
+      "prec": 12,
+      "tp2m": 33,
+      "ur2m": 18,
+      "v10m": 19
+    }
+  },
+  {
+    "datetime": 2016102410,
+    "data": {
+      "ocis": 80,
+      "prec": 81,
+      "tp2m": 34,
+      "ur2m": 11,
+      "v10m": 86
+    }
+  },
+  {
+    "datetime": 2016102411,
+    "data": {
+      "ocis": 53,
+      "prec": 56,
+      "tp2m": 38,
+      "ur2m": 88,
+      "v10m": 85
+    }
+  },
+  {
+    "datetime": 2016102412,
+    "data": {
+      "ocis": 15,
+      "prec": 85,
+      "tp2m": 12,
+      "ur2m": 85,
+      "v10m": 69
+    }
+  },
+  {
+    "datetime": 2016102413,
+    "data": {
+      "ocis": 37,
+      "prec": 82,
+      "tp2m": 33,
+      "ur2m": 61,
+      "v10m": 26
+    }
+  },
+  {
+    "datetime": 2016102414,
+    "data": {
+      "ocis": 73,
+      "prec": 13,
+      "tp2m": 18,
+      "ur2m": 31,
+      "v10m": 2
+    }
+  },
+  {
+    "datetime": 2016102415,
+    "data": {
+      "ocis": 21,
+      "prec": 58,
+      "tp2m": 18,
+      "ur2m": 93,
+      "v10m": 89
+    }
+  },
+  {
+    "datetime": 2016102416,
+    "data": {
+      "ocis": 70,
+      "prec": 78,
+      "tp2m": 14,
+      "ur2m": 50,
+      "v10m": 87
+    }
+  },
+  {
+    "datetime": 2016102417,
+    "data": {
+      "ocis": 53,
+      "prec": 2,
+      "tp2m": 25,
+      "ur2m": 55,
+      "v10m": 58
+    }
+  },
+  {
+    "datetime": 2016102418,
+    "data": {
+      "ocis": 47,
+      "prec": 2,
+      "tp2m": 11,
+      "ur2m": 79,
+      "v10m": 48
+    }
+  },
+  {
+    "datetime": 2016102419,
+    "data": {
+      "ocis": 95,
+      "prec": 33,
+      "tp2m": 18,
+      "ur2m": 19,
+      "v10m": 26
+    }
+  },
+  {
+    "datetime": 2016102420,
+    "data": {
+      "ocis": 52,
+      "prec": 33,
+      "tp2m": 28,
+      "ur2m": 59,
+      "v10m": 21
+    }
+  },
+  {
+    "datetime": 2016102421,
+    "data": {
+      "ocis": 72,
+      "prec": 59,
+      "tp2m": 20,
+      "ur2m": 29,
+      "v10m": 56
+    }
+  },
+  {
+    "datetime": 2016102422,
+    "data": {
+      "ocis": 37,
+      "prec": 85,
+      "tp2m": 7,
+      "ur2m": 60,
+      "v10m": 63
+    }
+  },
+  {
+    "datetime": 2016102423,
+    "data": {
+      "ocis": 85,
+      "prec": 42,
+      "tp2m": 19,
+      "ur2m": 32,
+      "v10m": 92
+    }
+  },
+  {
+    "datetime": 2016102500,
+    "data": {
+      "ocis": 83,
+      "prec": 3,
+      "tp2m": 19,
+      "ur2m": 32,
+      "v10m": 7
+    }
+  },
+  {
+    "datetime": 2016102501,
+    "data": {
+      "ocis": 61,
+      "prec": 91,
+      "tp2m": 32,
+      "ur2m": 58,
+      "v10m": 1
+    }
+  },
+  {
+    "datetime": 2016102502,
+    "data": {
+      "ocis": 61,
+      "prec": 97,
+      "tp2m": 2,
+      "ur2m": 35,
+      "v10m": 99
+    }
+  },
+  {
+    "datetime": 2016102503,
+    "data": {
+      "ocis": 74,
+      "prec": 33,
+      "tp2m": 7,
+      "ur2m": 47,
+      "v10m": 54
+    }
+  },
+  {
+    "datetime": 2016102504,
+    "data": {
+      "ocis": 72,
+      "prec": 90,
+      "tp2m": 34,
+      "ur2m": 37,
+      "v10m": 16
+    }
+  },
+  {
+    "datetime": 2016102505,
+    "data": {
+      "ocis": 47,
+      "prec": 76,
+      "tp2m": 23,
+      "ur2m": 24,
+      "v10m": 16
+    }
+  },
+  {
+    "datetime": 2016102506,
+    "data": {
+      "ocis": 66,
+      "prec": 76,
+      "tp2m": 10,
+      "ur2m": 57,
+      "v10m": 44
+    }
+  },
+  {
+    "datetime": 2016102507,
+    "data": {
+      "ocis": 97,
+      "prec": 66,
+      "tp2m": 14,
+      "ur2m": 24,
+      "v10m": 40
+    }
+  },
+  {
+    "datetime": 2016102508,
+    "data": {
+      "ocis": 28,
+      "prec": 32,
+      "tp2m": 4,
+      "ur2m": 54,
+      "v10m": 27
+    }
+  },
+  {
+    "datetime": 2016102509,
+    "data": {
+      "ocis": 6,
+      "prec": 84,
+      "tp2m": 6,
+      "ur2m": 41,
+      "v10m": 41
+    }
+  },
+  {
+    "datetime": 2016102510,
+    "data": {
+      "ocis": 29,
+      "prec": 92,
+      "tp2m": 13,
+      "ur2m": 59,
+      "v10m": 58
+    }
+  },
+  {
+    "datetime": 2016102511,
+    "data": {
+      "ocis": 44,
+      "prec": 91,
+      "tp2m": 35,
+      "ur2m": 23,
+      "v10m": 86
+    }
+  },
+  {
+    "datetime": 2016102512,
+    "data": {
+      "ocis": 95,
+      "prec": 21,
+      "tp2m": 25,
+      "ur2m": 52,
+      "v10m": 90
+    }
+  },
+  {
+    "datetime": 2016102513,
+    "data": {
+      "ocis": 24,
+      "prec": 93,
+      "tp2m": 34,
+      "ur2m": 80,
+      "v10m": 85
+    }
+  },
+  {
+    "datetime": 2016102514,
+    "data": {
+      "ocis": 41,
+      "prec": 30,
+      "tp2m": 38,
+      "ur2m": 54,
+      "v10m": 71
+    }
+  },
+  {
+    "datetime": 2016102515,
+    "data": {
+      "ocis": 51,
+      "prec": 23,
+      "tp2m": 13,
+      "ur2m": 48,
+      "v10m": 90
+    }
+  },
+  {
+    "datetime": 2016102516,
+    "data": {
+      "ocis": 83,
+      "prec": 19,
+      "tp2m": 5,
+      "ur2m": 89,
+      "v10m": 59
+    }
+  },
+  {
+    "datetime": 2016102517,
+    "data": {
+      "ocis": 61,
+      "prec": 82,
+      "tp2m": 38,
+      "ur2m": 28,
+      "v10m": 34
+    }
+  },
+  {
+    "datetime": 2016102518,
+    "data": {
+      "ocis": 81,
+      "prec": 74,
+      "tp2m": 36,
+      "ur2m": 40,
+      "v10m": 55
+    }
+  },
+  {
+    "datetime": 2016102519,
+    "data": {
+      "ocis": 76,
+      "prec": 95,
+      "tp2m": 28,
+      "ur2m": 38,
+      "v10m": 33
+    }
+  },
+  {
+    "datetime": 2016102520,
+    "data": {
+      "ocis": 81,
+      "prec": 30,
+      "tp2m": 13,
+      "ur2m": 42,
+      "v10m": 63
+    }
+  },
+  {
+    "datetime": 2016102521,
+    "data": {
+      "ocis": 5,
+      "prec": 53,
+      "tp2m": 9,
+      "ur2m": 40,
+      "v10m": 33
+    }
+  },
+  {
+    "datetime": 2016102522,
+    "data": {
+      "ocis": 63,
+      "prec": 98,
+      "tp2m": 27,
+      "ur2m": 34,
+      "v10m": 98
+    }
+  },
+  {
+    "datetime": 2016102523,
+    "data": {
+      "ocis": 70,
+      "prec": 53,
+      "tp2m": 15,
+      "ur2m": 19,
+      "v10m": 3
+    }
+  },
+  {
+    "datetime": 2016102600,
+    "data": {
+      "ocis": 56,
+      "prec": 22,
+      "tp2m": 26,
+      "ur2m": 78,
+      "v10m": 65
+    }
+  },
+  {
+    "datetime": 2016102601,
+    "data": {
+      "ocis": 31,
+      "prec": 58,
+      "tp2m": 20,
+      "ur2m": 18,
+      "v10m": 23
+    }
+  },
+  {
+    "datetime": 2016102602,
+    "data": {
+      "ocis": 39,
+      "prec": 8,
+      "tp2m": 13,
+      "ur2m": 68,
+      "v10m": 73
+    }
+  },
+  {
+    "datetime": 2016102603,
+    "data": {
+      "ocis": 53,
+      "prec": 92,
+      "tp2m": 35,
+      "ur2m": 51,
+      "v10m": 67
+    }
+  },
+  {
+    "datetime": 2016102604,
+    "data": {
+      "ocis": 50,
+      "prec": 23,
+      "tp2m": 20,
+      "ur2m": 24,
+      "v10m": 93
+    }
+  },
+  {
+    "datetime": 2016102605,
+    "data": {
+      "ocis": 67,
+      "prec": 52,
+      "tp2m": 4,
+      "ur2m": 96,
+      "v10m": 99
+    }
+  },
+  {
+    "datetime": 2016102606,
+    "data": {
+      "ocis": 37,
+      "prec": 25,
+      "tp2m": 5,
+      "ur2m": 20,
+      "v10m": 21
+    }
+  },
+  {
+    "datetime": 2016102607,
+    "data": {
+      "ocis": 44,
+      "prec": 21,
+      "tp2m": 21,
+      "ur2m": 32,
+      "v10m": 10
+    }
+  },
+  {
+    "datetime": 2016102608,
+    "data": {
+      "ocis": 73,
+      "prec": 20,
+      "tp2m": 9,
+      "ur2m": 95,
+      "v10m": 0
+    }
+  },
+  {
+    "datetime": 2016102609,
+    "data": {
+      "ocis": 59,
+      "prec": 89,
+      "tp2m": 20,
+      "ur2m": 93,
+      "v10m": 41
+    }
+  },
+  {
+    "datetime": 2016102610,
+    "data": {
+      "ocis": 69,
+      "prec": 99,
+      "tp2m": 18,
+      "ur2m": 87,
+      "v10m": 86
+    }
+  },
+  {
+    "datetime": 2016102611,
+    "data": {
+      "ocis": 70,
+      "prec": 26,
+      "tp2m": 37,
+      "ur2m": 9,
+      "v10m": 17
+    }
+  },
+  {
+    "datetime": 2016102612,
+    "data": {
+      "ocis": 22,
+      "prec": 1,
+      "tp2m": 16,
+      "ur2m": 95,
+      "v10m": 70
+    }
+  },
+  {
+    "datetime": 2016102613,
+    "data": {
+      "ocis": 98,
+      "prec": 18,
+      "tp2m": 30,
+      "ur2m": 1,
+      "v10m": 34
+    }
+  },
+  {
+    "datetime": 2016102614,
+    "data": {
+      "ocis": 38,
+      "prec": 42,
+      "tp2m": 7,
+      "ur2m": 4,
+      "v10m": 65
+    }
+  },
+  {
+    "datetime": 2016102615,
+    "data": {
+      "ocis": 66,
+      "prec": 87,
+      "tp2m": 1,
+      "ur2m": 26,
+      "v10m": 13
+    }
+  },
+  {
+    "datetime": 2016102616,
+    "data": {
+      "ocis": 97,
+      "prec": 23,
+      "tp2m": 3,
+      "ur2m": 37,
+      "v10m": 9
+    }
+  },
+  {
+    "datetime": 2016102617,
+    "data": {
+      "ocis": 0,
+      "prec": 12,
+      "tp2m": 6,
+      "ur2m": 81,
+      "v10m": 89
+    }
+  },
+  {
+    "datetime": 2016102618,
+    "data": {
+      "ocis": 6,
+      "prec": 94,
+      "tp2m": 38,
+      "ur2m": 12,
+      "v10m": 59
+    }
+  },
+  {
+    "datetime": 2016102619,
+    "data": {
+      "ocis": 85,
+      "prec": 84,
+      "tp2m": 25,
+      "ur2m": 5,
+      "v10m": 83
+    }
+  },
+  {
+    "datetime": 2016102620,
+    "data": {
+      "ocis": 69,
+      "prec": 18,
+      "tp2m": 11,
+      "ur2m": 7,
+      "v10m": 61
+    }
+  },
+  {
+    "datetime": 2016102621,
+    "data": {
+      "ocis": 46,
+      "prec": 46,
+      "tp2m": 23,
+      "ur2m": 98,
+      "v10m": 27
+    }
+  },
+  {
+    "datetime": 2016102622,
+    "data": {
+      "ocis": 91,
+      "prec": 6,
+      "tp2m": 13,
+      "ur2m": 64,
+      "v10m": 91
+    }
+  },
+  {
+    "datetime": 2016102623,
+    "data": {
+      "ocis": 60,
+      "prec": 85,
+      "tp2m": 26,
+      "ur2m": 1,
+      "v10m": 21
+    }
+  },
+  {
+    "datetime": 2016102700,
+    "data": {
+      "ocis": 95,
+      "prec": 66,
+      "tp2m": 38,
+      "ur2m": 53,
+      "v10m": 54
+    }
+  },
+  {
+    "datetime": 2016102701,
+    "data": {
+      "ocis": 56,
+      "prec": 16,
+      "tp2m": 0,
+      "ur2m": 77,
+      "v10m": 70
+    }
+  },
+  {
+    "datetime": 2016102702,
+    "data": {
+      "ocis": 24,
+      "prec": 24,
+      "tp2m": 26,
+      "ur2m": 43,
+      "v10m": 44
+    }
+  },
+  {
+    "datetime": 2016102703,
+    "data": {
+      "ocis": 77,
+      "prec": 27,
+      "tp2m": 12,
+      "ur2m": 6,
+      "v10m": 73
+    }
+  },
+  {
+    "datetime": 2016102704,
+    "data": {
+      "ocis": 72,
+      "prec": 73,
+      "tp2m": 17,
+      "ur2m": 72,
+      "v10m": 40
+    }
+  },
+  {
+    "datetime": 2016102705,
+    "data": {
+      "ocis": 70,
+      "prec": 50,
+      "tp2m": 30,
+      "ur2m": 17,
+      "v10m": 91
+    }
+  },
+  {
+    "datetime": 2016102706,
+    "data": {
+      "ocis": 77,
+      "prec": 94,
+      "tp2m": 11,
+      "ur2m": 49,
+      "v10m": 54
+    }
+  },
+  {
+    "datetime": 2016102707,
+    "data": {
+      "ocis": 84,
+      "prec": 94,
+      "tp2m": 38,
+      "ur2m": 29,
+      "v10m": 71
+    }
+  },
+  {
+    "datetime": 2016102708,
+    "data": {
+      "ocis": 47,
+      "prec": 2,
+      "tp2m": 31,
+      "ur2m": 65,
+      "v10m": 0
+    }
+  },
+  {
+    "datetime": 2016102709,
+    "data": {
+      "ocis": 70,
+      "prec": 69,
+      "tp2m": 9,
+      "ur2m": 13,
+      "v10m": 58
+    }
+  },
+  {
+    "datetime": 2016102710,
+    "data": {
+      "ocis": 11,
+      "prec": 98,
+      "tp2m": 25,
+      "ur2m": 50,
+      "v10m": 27
+    }
+  },
+  {
+    "datetime": 2016102711,
+    "data": {
+      "ocis": 47,
+      "prec": 30,
+      "tp2m": 1,
+      "ur2m": 26,
+      "v10m": 44
+    }
+  },
+  {
+    "datetime": 2016102712,
+    "data": {
+      "ocis": 46,
+      "prec": 71,
+      "tp2m": 17,
+      "ur2m": 44,
+      "v10m": 51
+    }
+  },
+  {
+    "datetime": 2016102713,
+    "data": {
+      "ocis": 8,
+      "prec": 66,
+      "tp2m": 9,
+      "ur2m": 35,
+      "v10m": 69
+    }
+  },
+  {
+    "datetime": 2016102714,
+    "data": {
+      "ocis": 46,
+      "prec": 71,
+      "tp2m": 37,
+      "ur2m": 90,
+      "v10m": 35
+    }
+  },
+  {
+    "datetime": 2016102715,
+    "data": {
+      "ocis": 5,
+      "prec": 11,
+      "tp2m": 4,
+      "ur2m": 9,
+      "v10m": 31
+    }
+  },
+  {
+    "datetime": 2016102716,
+    "data": {
+      "ocis": 48,
+      "prec": 92,
+      "tp2m": 36,
+      "ur2m": 97,
+      "v10m": 56
+    }
+  },
+  {
+    "datetime": 2016102717,
+    "data": {
+      "ocis": 30,
+      "prec": 18,
+      "tp2m": 13,
+      "ur2m": 69,
+      "v10m": 44
+    }
+  },
+  {
+    "datetime": 2016102718,
+    "data": {
+      "ocis": 58,
+      "prec": 17,
+      "tp2m": 33,
+      "ur2m": 8,
+      "v10m": 66
+    }
+  },
+  {
+    "datetime": 2016102719,
+    "data": {
+      "ocis": 13,
+      "prec": 98,
+      "tp2m": 31,
+      "ur2m": 12,
+      "v10m": 93
+    }
+  },
+  {
+    "datetime": 2016102720,
+    "data": {
+      "ocis": 13,
+      "prec": 89,
+      "tp2m": 40,
+      "ur2m": 47,
+      "v10m": 37
+    }
+  },
+  {
+    "datetime": 2016102721,
+    "data": {
+      "ocis": 1,
+      "prec": 79,
+      "tp2m": 34,
+      "ur2m": 10,
+      "v10m": 19
+    }
+  },
+  {
+    "datetime": 2016102722,
+    "data": {
+      "ocis": 24,
+      "prec": 82,
+      "tp2m": 30,
+      "ur2m": 23,
+      "v10m": 81
+    }
+  },
+  {
+    "datetime": 2016102723,
+    "data": {
+      "ocis": 29,
+      "prec": 97,
+      "tp2m": 13,
+      "ur2m": 61,
+      "v10m": 12
+    }
+  },
+  {
+    "datetime": 2016102800,
+    "data": {
+      "ocis": 31,
+      "prec": 11,
+      "tp2m": 26,
+      "ur2m": 80,
+      "v10m": 39
+    }
+  },
+  {
+    "datetime": 2016102801,
+    "data": {
+      "ocis": 27,
+      "prec": 89,
+      "tp2m": 6,
+      "ur2m": 44,
+      "v10m": 30
+    }
+  },
+  {
+    "datetime": 2016102802,
+    "data": {
+      "ocis": 33,
+      "prec": 67,
+      "tp2m": 29,
+      "ur2m": 33,
+      "v10m": 11
+    }
+  },
+  {
+    "datetime": 2016102803,
+    "data": {
+      "ocis": 54,
+      "prec": 92,
+      "tp2m": 3,
+      "ur2m": 89,
+      "v10m": 97
+    }
+  },
+  {
+    "datetime": 2016102804,
+    "data": {
+      "ocis": 68,
+      "prec": 45,
+      "tp2m": 21,
+      "ur2m": 21,
+      "v10m": 13
+    }
+  },
+  {
+    "datetime": 2016102805,
+    "data": {
+      "ocis": 24,
+      "prec": 52,
+      "tp2m": 40,
+      "ur2m": 49,
+      "v10m": 1
+    }
+  },
+  {
+    "datetime": 2016102806,
+    "data": {
+      "ocis": 87,
+      "prec": 9,
+      "tp2m": 25,
+      "ur2m": 75,
+      "v10m": 1
+    }
+  },
+  {
+    "datetime": 2016102807,
+    "data": {
+      "ocis": 68,
+      "prec": 21,
+      "tp2m": 19,
+      "ur2m": 6,
+      "v10m": 97
+    }
+  },
+  {
+    "datetime": 2016102808,
+    "data": {
+      "ocis": 41,
+      "prec": 41,
+      "tp2m": 6,
+      "ur2m": 98,
+      "v10m": 71
+    }
+  },
+  {
+    "datetime": 2016102809,
+    "data": {
+      "ocis": 44,
+      "prec": 25,
+      "tp2m": 28,
+      "ur2m": 45,
+      "v10m": 52
+    }
+  },
+  {
+    "datetime": 2016102810,
+    "data": {
+      "ocis": 5,
+      "prec": 73,
+      "tp2m": 6,
+      "ur2m": 51,
+      "v10m": 36
+    }
+  },
+  {
+    "datetime": 2016102811,
+    "data": {
+      "ocis": 17,
+      "prec": 81,
+      "tp2m": 13,
+      "ur2m": 19,
+      "v10m": 17
+    }
+  },
+  {
+    "datetime": 2016102812,
+    "data": {
+      "ocis": 89,
+      "prec": 65,
+      "tp2m": 37,
+      "ur2m": 49,
+      "v10m": 93
+    }
+  },
+  {
+    "datetime": 2016102813,
+    "data": {
+      "ocis": 28,
+      "prec": 81,
+      "tp2m": 8,
+      "ur2m": 44,
+      "v10m": 63
+    }
+  },
+  {
+    "datetime": 2016102814,
+    "data": {
+      "ocis": 83,
+      "prec": 89,
+      "tp2m": 20,
+      "ur2m": 12,
+      "v10m": 92
+    }
+  },
+  {
+    "datetime": 2016102815,
+    "data": {
+      "ocis": 51,
+      "prec": 1,
+      "tp2m": 5,
+      "ur2m": 40,
+      "v10m": 5
+    }
+  },
+  {
+    "datetime": 2016102816,
+    "data": {
+      "ocis": 61,
+      "prec": 87,
+      "tp2m": 11,
+      "ur2m": 8,
+      "v10m": 31
+    }
+  },
+  {
+    "datetime": 2016102817,
+    "data": {
+      "ocis": 46,
+      "prec": 12,
+      "tp2m": 31,
+      "ur2m": 73,
+      "v10m": 4
+    }
+  },
+  {
+    "datetime": 2016102818,
+    "data": {
+      "ocis": 74,
+      "prec": 56,
+      "tp2m": 37,
+      "ur2m": 76,
+      "v10m": 65
+    }
+  },
+  {
+    "datetime": 2016102819,
+    "data": {
+      "ocis": 20,
+      "prec": 41,
+      "tp2m": 16,
+      "ur2m": 24,
+      "v10m": 27
+    }
+  },
+  {
+    "datetime": 2016102820,
+    "data": {
+      "ocis": 17,
+      "prec": 37,
+      "tp2m": 27,
+      "ur2m": 2,
+      "v10m": 15
+    }
+  },
+  {
+    "datetime": 2016102821,
+    "data": {
+      "ocis": 23,
+      "prec": 24,
+      "tp2m": 29,
+      "ur2m": 68,
+      "v10m": 19
+    }
+  },
+  {
+    "datetime": 2016102822,
+    "data": {
+      "ocis": 41,
+      "prec": 34,
+      "tp2m": 18,
+      "ur2m": 82,
+      "v10m": 77
+    }
+  },
+  {
+    "datetime": 2016102823,
+    "data": {
+      "ocis": 24,
+      "prec": 18,
+      "tp2m": 3,
+      "ur2m": 17,
+      "v10m": 57
+    }
+  },
+  {
+    "datetime": 2016102900,
+    "data": {
+      "ocis": 89,
+      "prec": 1,
+      "tp2m": 32,
+      "ur2m": 8,
+      "v10m": 77
+    }
+  },
+  {
+    "datetime": 2016102901,
+    "data": {
+      "ocis": 1,
+      "prec": 29,
+      "tp2m": 38,
+      "ur2m": 3,
+      "v10m": 13
+    }
+  },
+  {
+    "datetime": 2016102902,
+    "data": {
+      "ocis": 85,
+      "prec": 67,
+      "tp2m": 29,
+      "ur2m": 4,
+      "v10m": 56
+    }
+  },
+  {
+    "datetime": 2016102903,
+    "data": {
+      "ocis": 55,
+      "prec": 53,
+      "tp2m": 8,
+      "ur2m": 48,
+      "v10m": 42
+    }
+  },
+  {
+    "datetime": 2016102904,
+    "data": {
+      "ocis": 87,
+      "prec": 49,
+      "tp2m": 25,
+      "ur2m": 32,
+      "v10m": 93
+    }
+  },
+  {
+    "datetime": 2016102905,
+    "data": {
+      "ocis": 93,
+      "prec": 70,
+      "tp2m": 29,
+      "ur2m": 16,
+      "v10m": 12
+    }
+  },
+  {
+    "datetime": 2016102906,
+    "data": {
+      "ocis": 54,
+      "prec": 0,
+      "tp2m": 24,
+      "ur2m": 53,
+      "v10m": 16
+    }
+  },
+  {
+    "datetime": 2016102907,
+    "data": {
+      "ocis": 43,
+      "prec": 93,
+      "tp2m": 39,
+      "ur2m": 70,
+      "v10m": 1
+    }
+  },
+  {
+    "datetime": 2016102908,
+    "data": {
+      "ocis": 30,
+      "prec": 45,
+      "tp2m": 33,
+      "ur2m": 50,
+      "v10m": 18
+    }
+  },
+  {
+    "datetime": 2016102909,
+    "data": {
+      "ocis": 15,
+      "prec": 65,
+      "tp2m": 16,
+      "ur2m": 34,
+      "v10m": 97
+    }
+  },
+  {
+    "datetime": 2016102910,
+    "data": {
+      "ocis": 71,
+      "prec": 66,
+      "tp2m": 18,
+      "ur2m": 32,
+      "v10m": 54
+    }
+  },
+  {
+    "datetime": 2016102911,
+    "data": {
+      "ocis": 17,
+      "prec": 58,
+      "tp2m": 6,
+      "ur2m": 68,
+      "v10m": 64
+    }
+  },
+  {
+    "datetime": 2016102912,
+    "data": {
+      "ocis": 57,
+      "prec": 19,
+      "tp2m": 15,
+      "ur2m": 11,
+      "v10m": 3
+    }
+  },
+  {
+    "datetime": 2016102913,
+    "data": {
+      "ocis": 59,
+      "prec": 19,
+      "tp2m": 29,
+      "ur2m": 42,
+      "v10m": 45
+    }
+  },
+  {
+    "datetime": 2016102914,
+    "data": {
+      "ocis": 1,
+      "prec": 22,
+      "tp2m": 5,
+      "ur2m": 98,
+      "v10m": 22
+    }
+  },
+  {
+    "datetime": 2016102915,
+    "data": {
+      "ocis": 98,
+      "prec": 64,
+      "tp2m": 19,
+      "ur2m": 40,
+      "v10m": 72
+    }
+  },
+  {
+    "datetime": 2016102916,
+    "data": {
+      "ocis": 45,
+      "prec": 12,
+      "tp2m": 5,
+      "ur2m": 63,
+      "v10m": 25
+    }
+  },
+  {
+    "datetime": 2016102917,
+    "data": {
+      "ocis": 94,
+      "prec": 81,
+      "tp2m": 23,
+      "ur2m": 96,
+      "v10m": 31
+    }
+  },
+  {
+    "datetime": 2016102918,
+    "data": {
+      "ocis": 79,
+      "prec": 34,
+      "tp2m": 40,
+      "ur2m": 72,
+      "v10m": 91
+    }
+  },
+  {
+    "datetime": 2016102919,
+    "data": {
+      "ocis": 83,
+      "prec": 97,
+      "tp2m": 35,
+      "ur2m": 47,
+      "v10m": 37
+    }
+  },
+  {
+    "datetime": 2016102920,
+    "data": {
+      "ocis": 17,
+      "prec": 77,
+      "tp2m": 31,
+      "ur2m": 92,
+      "v10m": 50
+    }
+  },
+  {
+    "datetime": 2016102921,
+    "data": {
+      "ocis": 44,
+      "prec": 44,
+      "tp2m": 19,
+      "ur2m": 27,
+      "v10m": 5
+    }
+  },
+  {
+    "datetime": 2016102922,
+    "data": {
+      "ocis": 9,
+      "prec": 9,
+      "tp2m": 12,
+      "ur2m": 93,
+      "v10m": 83
+    }
+  },
+  {
+    "datetime": 2016102923,
+    "data": {
+      "ocis": 85,
+      "prec": 39,
+      "tp2m": 15,
+      "ur2m": 93,
+      "v10m": 90
+    }
+  },
+  {
+    "datetime": 2016103000,
+    "data": {
+      "ocis": 67,
+      "prec": 68,
+      "tp2m": 35,
+      "ur2m": 27,
+      "v10m": 16
+    }
+  },
+  {
+    "datetime": 2016103001,
+    "data": {
+      "ocis": 24,
+      "prec": 72,
+      "tp2m": 27,
+      "ur2m": 56,
+      "v10m": 43
+    }
+  },
+  {
+    "datetime": 2016103002,
+    "data": {
+      "ocis": 31,
+      "prec": 93,
+      "tp2m": 19,
+      "ur2m": 92,
+      "v10m": 75
+    }
+  },
+  {
+    "datetime": 2016103003,
+    "data": {
+      "ocis": 63,
+      "prec": 32,
+      "tp2m": 10,
+      "ur2m": 86,
+      "v10m": 10
+    }
+  },
+  {
+    "datetime": 2016103004,
+    "data": {
+      "ocis": 77,
+      "prec": 59,
+      "tp2m": 7,
+      "ur2m": 23,
+      "v10m": 7
+    }
+  },
+  {
+    "datetime": 2016103005,
+    "data": {
+      "ocis": 72,
+      "prec": 55,
+      "tp2m": 20,
+      "ur2m": 21,
+      "v10m": 46
+    }
+  },
+  {
+    "datetime": 2016103006,
+    "data": {
+      "ocis": 84,
+      "prec": 39,
+      "tp2m": 33,
+      "ur2m": 83,
+      "v10m": 75
+    }
+  },
+  {
+    "datetime": 2016103007,
+    "data": {
+      "ocis": 59,
+      "prec": 59,
+      "tp2m": 14,
+      "ur2m": 60,
+      "v10m": 86
+    }
+  },
+  {
+    "datetime": 2016103008,
+    "data": {
+      "ocis": 50,
+      "prec": 3,
+      "tp2m": 34,
+      "ur2m": 45,
+      "v10m": 96
+    }
+  },
+  {
+    "datetime": 2016103009,
+    "data": {
+      "ocis": 62,
+      "prec": 77,
+      "tp2m": 36,
+      "ur2m": 12,
+      "v10m": 19
+    }
+  },
+  {
+    "datetime": 2016103010,
+    "data": {
+      "ocis": 23,
+      "prec": 49,
+      "tp2m": 5,
+      "ur2m": 34,
+      "v10m": 65
+    }
+  },
+  {
+    "datetime": 2016103011,
+    "data": {
+      "ocis": 40,
+      "prec": 9,
+      "tp2m": 16,
+      "ur2m": 26,
+      "v10m": 92
+    }
+  },
+  {
+    "datetime": 2016103012,
+    "data": {
+      "ocis": 35,
+      "prec": 74,
+      "tp2m": 7,
+      "ur2m": 69,
+      "v10m": 12
+    }
+  },
+  {
+    "datetime": 2016103013,
+    "data": {
+      "ocis": 52,
+      "prec": 1,
+      "tp2m": 12,
+      "ur2m": 6,
+      "v10m": 93
+    }
+  },
+  {
+    "datetime": 2016103014,
+    "data": {
+      "ocis": 78,
+      "prec": 71,
+      "tp2m": 28,
+      "ur2m": 70,
+      "v10m": 60
+    }
+  },
+  {
+    "datetime": 2016103015,
+    "data": {
+      "ocis": 62,
+      "prec": 38,
+      "tp2m": 8,
+      "ur2m": 14,
+      "v10m": 60
+    }
+  },
+  {
+    "datetime": 2016103016,
+    "data": {
+      "ocis": 61,
+      "prec": 56,
+      "tp2m": 18,
+      "ur2m": 44,
+      "v10m": 45
+    }
+  },
+  {
+    "datetime": 2016103017,
+    "data": {
+      "ocis": 91,
+      "prec": 22,
+      "tp2m": 6,
+      "ur2m": 27,
+      "v10m": 94
+    }
+  },
+  {
+    "datetime": 2016103018,
+    "data": {
+      "ocis": 62,
+      "prec": 92,
+      "tp2m": 36,
+      "ur2m": 14,
+      "v10m": 37
+    }
+  },
+  {
+    "datetime": 2016103019,
+    "data": {
+      "ocis": 30,
+      "prec": 61,
+      "tp2m": 10,
+      "ur2m": 38,
+      "v10m": 38
+    }
+  },
+  {
+    "datetime": 2016103020,
+    "data": {
+      "ocis": 43,
+      "prec": 39,
+      "tp2m": 5,
+      "ur2m": 7,
+      "v10m": 2
+    }
+  },
+  {
+    "datetime": 2016103021,
+    "data": {
+      "ocis": 69,
+      "prec": 58,
+      "tp2m": 32,
+      "ur2m": 36,
+      "v10m": 81
+    }
+  },
+  {
+    "datetime": 2016103022,
+    "data": {
+      "ocis": 4,
+      "prec": 48,
+      "tp2m": 3,
+      "ur2m": 51,
+      "v10m": 70
+    }
+  },
+  {
+    "datetime": 2016103023,
+    "data": {
+      "ocis": 44,
+      "prec": 73,
+      "tp2m": 28,
+      "ur2m": 77,
+      "v10m": 48
+    }
+  },
+  {
+    "datetime": 2016103100,
+    "data": {
+      "ocis": 33,
+      "prec": 29,
+      "tp2m": 1,
+      "ur2m": 7,
+      "v10m": 5
+    }
+  },
+  {
+    "datetime": 2016103101,
+    "data": {
+      "ocis": 47,
+      "prec": 9,
+      "tp2m": 39,
+      "ur2m": 96,
+      "v10m": 80
+    }
+  },
+  {
+    "datetime": 2016103102,
+    "data": {
+      "ocis": 77,
+      "prec": 64,
+      "tp2m": 13,
+      "ur2m": 1,
+      "v10m": 11
+    }
+  },
+  {
+    "datetime": 2016103103,
+    "data": {
+      "ocis": 84,
+      "prec": 63,
+      "tp2m": 25,
+      "ur2m": 23,
+      "v10m": 79
+    }
+  },
+  {
+    "datetime": 2016103104,
+    "data": {
+      "ocis": 1,
+      "prec": 86,
+      "tp2m": 30,
+      "ur2m": 3,
+      "v10m": 81
+    }
+  },
+  {
+    "datetime": 2016103105,
+    "data": {
+      "ocis": 86,
+      "prec": 44,
+      "tp2m": 19,
+      "ur2m": 23,
+      "v10m": 44
+    }
+  },
+  {
+    "datetime": 2016103106,
+    "data": {
+      "ocis": 86,
+      "prec": 21,
+      "tp2m": 34,
+      "ur2m": 26,
+      "v10m": 45
+    }
+  },
+  {
+    "datetime": 2016103107,
+    "data": {
+      "ocis": 86,
+      "prec": 91,
+      "tp2m": 28,
+      "ur2m": 42,
+      "v10m": 25
+    }
+  },
+  {
+    "datetime": 2016103108,
+    "data": {
+      "ocis": 16,
+      "prec": 77,
+      "tp2m": 11,
+      "ur2m": 47,
+      "v10m": 97
+    }
+  },
+  {
+    "datetime": 2016103109,
+    "data": {
+      "ocis": 79,
+      "prec": 31,
+      "tp2m": 0,
+      "ur2m": 91,
+      "v10m": 30
+    }
+  },
+  {
+    "datetime": 2016103110,
+    "data": {
+      "ocis": 7,
+      "prec": 27,
+      "tp2m": 11,
+      "ur2m": 86,
+      "v10m": 56
+    }
+  },
+  {
+    "datetime": 2016103111,
+    "data": {
+      "ocis": 47,
+      "prec": 68,
+      "tp2m": 33,
+      "ur2m": 62,
+      "v10m": 12
+    }
+  },
+  {
+    "datetime": 2016103112,
+    "data": {
+      "ocis": 15,
+      "prec": 58,
+      "tp2m": 24,
+      "ur2m": 76,
+      "v10m": 38
+    }
+  },
+  {
+    "datetime": 2016103113,
+    "data": {
+      "ocis": 5,
+      "prec": 22,
+      "tp2m": 23,
+      "ur2m": 66,
+      "v10m": 41
+    }
+  },
+  {
+    "datetime": 2016103114,
+    "data": {
+      "ocis": 75,
+      "prec": 5,
+      "tp2m": 16,
+      "ur2m": 84,
+      "v10m": 42
+    }
+  },
+  {
+    "datetime": 2016103115,
+    "data": {
+      "ocis": 63,
+      "prec": 57,
+      "tp2m": 15,
+      "ur2m": 56,
+      "v10m": 81
+    }
+  },
+  {
+    "datetime": 2016103116,
+    "data": {
+      "ocis": 65,
+      "prec": 99,
+      "tp2m": 15,
+      "ur2m": 84,
+      "v10m": 29
+    }
+  },
+  {
+    "datetime": 2016103117,
+    "data": {
+      "ocis": 90,
+      "prec": 20,
+      "tp2m": 40,
+      "ur2m": 18,
+      "v10m": 33
+    }
+  },
+  {
+    "datetime": 2016103118,
+    "data": {
+      "ocis": 58,
+      "prec": 2,
+      "tp2m": 2,
+      "ur2m": 49,
+      "v10m": 13
+    }
+  },
+  {
+    "datetime": 2016103119,
+    "data": {
+      "ocis": 60,
+      "prec": 6,
+      "tp2m": 38,
+      "ur2m": 36,
+      "v10m": 17
+    }
+  },
+  {
+    "datetime": 2016103120,
+    "data": {
+      "ocis": 58,
+      "prec": 78,
+      "tp2m": 29,
+      "ur2m": 63,
+      "v10m": 62
+    }
+  },
+  {
+    "datetime": 2016103121,
+    "data": {
+      "ocis": 82,
+      "prec": 66,
+      "tp2m": 26,
+      "ur2m": 28,
+      "v10m": 63
+    }
+  },
+  {
+    "datetime": 2016103122,
+    "data": {
+      "ocis": 25,
+      "prec": 91,
+      "tp2m": 21,
+      "ur2m": 70,
+      "v10m": 30
+    }
+  },
+  {
+    "datetime": 2016103123,
+    "data": {
+      "ocis": 20,
+      "prec": 86,
+      "tp2m": 0,
+      "ur2m": 59,
+      "v10m": 5
+    }
+  },
+  {
+    "datetime": 2016110100,
+    "data": {
+      "ocis": 78,
+      "prec": 19,
+      "tp2m": 25,
+      "ur2m": 41,
+      "v10m": 55
+    }
+  },
+  {
+    "datetime": 2016110101,
+    "data": {
+      "ocis": 27,
+      "prec": 53,
+      "tp2m": 16,
+      "ur2m": 58,
+      "v10m": 38
+    }
+  },
+  {
+    "datetime": 2016110102,
+    "data": {
+      "ocis": 28,
+      "prec": 72,
+      "tp2m": 30,
+      "ur2m": 34,
+      "v10m": 78
+    }
+  },
+  {
+    "datetime": 2016110103,
+    "data": {
+      "ocis": 27,
+      "prec": 92,
+      "tp2m": 33,
+      "ur2m": 83,
+      "v10m": 19
+    }
+  },
+  {
+    "datetime": 2016110104,
+    "data": {
+      "ocis": 9,
+      "prec": 59,
+      "tp2m": 24,
+      "ur2m": 64,
+      "v10m": 48
+    }
+  },
+  {
+    "datetime": 2016110105,
+    "data": {
+      "ocis": 51,
+      "prec": 15,
+      "tp2m": 18,
+      "ur2m": 92,
+      "v10m": 48
+    }
+  },
+  {
+    "datetime": 2016110106,
+    "data": {
+      "ocis": 58,
+      "prec": 14,
+      "tp2m": 27,
+      "ur2m": 22,
+      "v10m": 81
+    }
+  },
+  {
+    "datetime": 2016110107,
+    "data": {
+      "ocis": 92,
+      "prec": 36,
+      "tp2m": 35,
+      "ur2m": 43,
+      "v10m": 9
+    }
+  },
+  {
+    "datetime": 2016110108,
+    "data": {
+      "ocis": 76,
+      "prec": 27,
+      "tp2m": 30,
+      "ur2m": 36,
+      "v10m": 95
+    }
+  },
+  {
+    "datetime": 2016110109,
+    "data": {
+      "ocis": 97,
+      "prec": 62,
+      "tp2m": 21,
+      "ur2m": 1,
+      "v10m": 73
+    }
+  },
+  {
+    "datetime": 2016110110,
+    "data": {
+      "ocis": 39,
+      "prec": 39,
+      "tp2m": 15,
+      "ur2m": 8,
+      "v10m": 5
+    }
+  },
+  {
+    "datetime": 2016110111,
+    "data": {
+      "ocis": 8,
+      "prec": 82,
+      "tp2m": 32,
+      "ur2m": 36,
+      "v10m": 54
+    }
+  },
+  {
+    "datetime": 2016110112,
+    "data": {
+      "ocis": 28,
+      "prec": 65,
+      "tp2m": 6,
+      "ur2m": 18,
+      "v10m": 69
+    }
+  },
+  {
+    "datetime": 2016110113,
+    "data": {
+      "ocis": 75,
+      "prec": 49,
+      "tp2m": 26,
+      "ur2m": 39,
+      "v10m": 75
+    }
+  },
+  {
+    "datetime": 2016110114,
+    "data": {
+      "ocis": 13,
+      "prec": 3,
+      "tp2m": 13,
+      "ur2m": 62,
+      "v10m": 74
+    }
+  },
+  {
+    "datetime": 2016110115,
+    "data": {
+      "ocis": 21,
+      "prec": 92,
+      "tp2m": 4,
+      "ur2m": 43,
+      "v10m": 56
+    }
+  },
+  {
+    "datetime": 2016110116,
+    "data": {
+      "ocis": 47,
+      "prec": 83,
+      "tp2m": 9,
+      "ur2m": 93,
+      "v10m": 75
+    }
+  },
+  {
+    "datetime": 2016110117,
+    "data": {
+      "ocis": 0,
+      "prec": 89,
+      "tp2m": 10,
+      "ur2m": 14,
+      "v10m": 91
+    }
+  },
+  {
+    "datetime": 2016110118,
+    "data": {
+      "ocis": 66,
+      "prec": 40,
+      "tp2m": 12,
+      "ur2m": 65,
+      "v10m": 59
+    }
+  },
+  {
+    "datetime": 2016110119,
+    "data": {
+      "ocis": 23,
+      "prec": 61,
+      "tp2m": 5,
+      "ur2m": 91,
+      "v10m": 2
+    }
+  },
+  {
+    "datetime": 2016110120,
+    "data": {
+      "ocis": 44,
+      "prec": 68,
+      "tp2m": 5,
+      "ur2m": 97,
+      "v10m": 4
+    }
+  },
+  {
+    "datetime": 2016110121,
+    "data": {
+      "ocis": 69,
+      "prec": 48,
+      "tp2m": 32,
+      "ur2m": 82,
+      "v10m": 98
+    }
+  },
+  {
+    "datetime": 2016110122,
+    "data": {
+      "ocis": 65,
+      "prec": 4,
+      "tp2m": 5,
+      "ur2m": 61,
+      "v10m": 39
+    }
+  },
+  {
+    "datetime": 2016110123,
+    "data": {
+      "ocis": 57,
+      "prec": 35,
+      "tp2m": 38,
+      "ur2m": 64,
+      "v10m": 34
+    }
+  },
+  {
+    "datetime": 2016110200,
+    "data": {
+      "ocis": 82,
+      "prec": 21,
+      "tp2m": 3,
+      "ur2m": 10,
+      "v10m": 29
+    }
+  },
+  {
+    "datetime": 2016110201,
+    "data": {
+      "ocis": 17,
+      "prec": 52,
+      "tp2m": 17,
+      "ur2m": 82,
+      "v10m": 68
+    }
+  },
+  {
+    "datetime": 2016110202,
+    "data": {
+      "ocis": 83,
+      "prec": 13,
+      "tp2m": 15,
+      "ur2m": 38,
+      "v10m": 2
+    }
+  },
+  {
+    "datetime": 2016110203,
+    "data": {
+      "ocis": 15,
+      "prec": 57,
+      "tp2m": 39,
+      "ur2m": 56,
+      "v10m": 97
+    }
+  },
+  {
+    "datetime": 2016110204,
+    "data": {
+      "ocis": 55,
+      "prec": 29,
+      "tp2m": 32,
+      "ur2m": 24,
+      "v10m": 82
+    }
+  },
+  {
+    "datetime": 2016110205,
+    "data": {
+      "ocis": 96,
+      "prec": 52,
+      "tp2m": 13,
+      "ur2m": 57,
+      "v10m": 39
+    }
+  },
+  {
+    "datetime": 2016110206,
+    "data": {
+      "ocis": 72,
+      "prec": 18,
+      "tp2m": 26,
+      "ur2m": 96,
+      "v10m": 49
+    }
+  },
+  {
+    "datetime": 2016110207,
+    "data": {
+      "ocis": 56,
+      "prec": 25,
+      "tp2m": 26,
+      "ur2m": 35,
+      "v10m": 21
+    }
+  },
+  {
+    "datetime": 2016110208,
+    "data": {
+      "ocis": 33,
+      "prec": 83,
+      "tp2m": 19,
+      "ur2m": 21,
+      "v10m": 63
+    }
+  },
+  {
+    "datetime": 2016110209,
+    "data": {
+      "ocis": 42,
+      "prec": 47,
+      "tp2m": 15,
+      "ur2m": 60,
+      "v10m": 33
+    }
+  },
+  {
+    "datetime": 2016110210,
+    "data": {
+      "ocis": 69,
+      "prec": 4,
+      "tp2m": 0,
+      "ur2m": 99,
+      "v10m": 96
+    }
+  },
+  {
+    "datetime": 2016110211,
+    "data": {
+      "ocis": 37,
+      "prec": 80,
+      "tp2m": 28,
+      "ur2m": 60,
+      "v10m": 91
+    }
+  },
+  {
+    "datetime": 2016110212,
+    "data": {
+      "ocis": 32,
+      "prec": 77,
+      "tp2m": 0,
+      "ur2m": 96,
+      "v10m": 77
+    }
+  },
+  {
+    "datetime": 2016110213,
+    "data": {
+      "ocis": 7,
+      "prec": 47,
+      "tp2m": 34,
+      "ur2m": 22,
+      "v10m": 14
+    }
+  },
+  {
+    "datetime": 2016110214,
+    "data": {
+      "ocis": 18,
+      "prec": 61,
+      "tp2m": 39,
+      "ur2m": 12,
+      "v10m": 49
+    }
+  },
+  {
+    "datetime": 2016110215,
+    "data": {
+      "ocis": 5,
+      "prec": 77,
+      "tp2m": 0,
+      "ur2m": 64,
+      "v10m": 89
+    }
+  },
+  {
+    "datetime": 2016110216,
+    "data": {
+      "ocis": 94,
+      "prec": 90,
+      "tp2m": 35,
+      "ur2m": 59,
+      "v10m": 13
+    }
+  },
+  {
+    "datetime": 2016110217,
+    "data": {
+      "ocis": 10,
+      "prec": 45,
+      "tp2m": 8,
+      "ur2m": 47,
+      "v10m": 46
+    }
+  },
+  {
+    "datetime": 2016110218,
+    "data": {
+      "ocis": 9,
+      "prec": 50,
+      "tp2m": 14,
+      "ur2m": 88,
+      "v10m": 57
+    }
+  },
+  {
+    "datetime": 2016110219,
+    "data": {
+      "ocis": 60,
+      "prec": 14,
+      "tp2m": 28,
+      "ur2m": 54,
+      "v10m": 35
+    }
+  },
+  {
+    "datetime": 2016110220,
+    "data": {
+      "ocis": 73,
+      "prec": 89,
+      "tp2m": 15,
+      "ur2m": 54,
+      "v10m": 48
+    }
+  },
+  {
+    "datetime": 2016110221,
+    "data": {
+      "ocis": 4,
+      "prec": 11,
+      "tp2m": 4,
+      "ur2m": 50,
+      "v10m": 86
+    }
+  },
+  {
+    "datetime": 2016110222,
+    "data": {
+      "ocis": 82,
+      "prec": 50,
+      "tp2m": 20,
+      "ur2m": 0,
+      "v10m": 79
+    }
+  },
+  {
+    "datetime": 2016110223,
+    "data": {
+      "ocis": 23,
+      "prec": 60,
+      "tp2m": 20,
+      "ur2m": 16,
+      "v10m": 65
+    }
+  },
+  {
+    "datetime": 2016110300,
+    "data": {
+      "ocis": 78,
+      "prec": 57,
+      "tp2m": 37,
+      "ur2m": 56,
+      "v10m": 64
+    }
+  },
+  {
+    "datetime": 2016110301,
+    "data": {
+      "ocis": 21,
+      "prec": 68,
+      "tp2m": 31,
+      "ur2m": 29,
+      "v10m": 55
+    }
+  },
+  {
+    "datetime": 2016110302,
+    "data": {
+      "ocis": 97,
+      "prec": 41,
+      "tp2m": 21,
+      "ur2m": 66,
+      "v10m": 27
+    }
+  },
+  {
+    "datetime": 2016110303,
+    "data": {
+      "ocis": 82,
+      "prec": 91,
+      "tp2m": 14,
+      "ur2m": 80,
+      "v10m": 67
+    }
+  },
+  {
+    "datetime": 2016110304,
+    "data": {
+      "ocis": 99,
+      "prec": 60,
+      "tp2m": 35,
+      "ur2m": 54,
+      "v10m": 0
+    }
+  },
+  {
+    "datetime": 2016110305,
+    "data": {
+      "ocis": 92,
+      "prec": 89,
+      "tp2m": 20,
+      "ur2m": 3,
+      "v10m": 62
+    }
+  },
+  {
+    "datetime": 2016110306,
+    "data": {
+      "ocis": 48,
+      "prec": 72,
+      "tp2m": 30,
+      "ur2m": 54,
+      "v10m": 45
+    }
+  },
+  {
+    "datetime": 2016110307,
+    "data": {
+      "ocis": 55,
+      "prec": 16,
+      "tp2m": 15,
+      "ur2m": 96,
+      "v10m": 8
+    }
+  },
+  {
+    "datetime": 2016110308,
+    "data": {
+      "ocis": 49,
+      "prec": 62,
+      "tp2m": 1,
+      "ur2m": 15,
+      "v10m": 65
+    }
+  },
+  {
+    "datetime": 2016110309,
+    "data": {
+      "ocis": 97,
+      "prec": 67,
+      "tp2m": 20,
+      "ur2m": 68,
+      "v10m": 82
+    }
+  },
+  {
+    "datetime": 2016110310,
+    "data": {
+      "ocis": 48,
+      "prec": 6,
+      "tp2m": 30,
+      "ur2m": 90,
+      "v10m": 72
+    }
+  },
+  {
+    "datetime": 2016110311,
+    "data": {
+      "ocis": 94,
+      "prec": 64,
+      "tp2m": 31,
+      "ur2m": 83,
+      "v10m": 57
+    }
+  },
+  {
+    "datetime": 2016110312,
+    "data": {
+      "ocis": 67,
+      "prec": 57,
+      "tp2m": 6,
+      "ur2m": 30,
+      "v10m": 88
+    }
+  },
+  {
+    "datetime": 2016110313,
+    "data": {
+      "ocis": 89,
+      "prec": 64,
+      "tp2m": 17,
+      "ur2m": 59,
+      "v10m": 14
+    }
+  },
+  {
+    "datetime": 2016110314,
+    "data": {
+      "ocis": 52,
+      "prec": 44,
+      "tp2m": 15,
+      "ur2m": 30,
+      "v10m": 37
+    }
+  },
+  {
+    "datetime": 2016110315,
+    "data": {
+      "ocis": 19,
+      "prec": 57,
+      "tp2m": 36,
+      "ur2m": 74,
+      "v10m": 79
+    }
+  },
+  {
+    "datetime": 2016110316,
+    "data": {
+      "ocis": 4,
+      "prec": 49,
+      "tp2m": 18,
+      "ur2m": 2,
+      "v10m": 62
+    }
+  },
+  {
+    "datetime": 2016110317,
+    "data": {
+      "ocis": 77,
+      "prec": 51,
+      "tp2m": 5,
+      "ur2m": 84,
+      "v10m": 24
+    }
+  },
+  {
+    "datetime": 2016110318,
+    "data": {
+      "ocis": 93,
+      "prec": 58,
+      "tp2m": 10,
+      "ur2m": 1,
+      "v10m": 34
+    }
+  },
+  {
+    "datetime": 2016110319,
+    "data": {
+      "ocis": 48,
+      "prec": 95,
+      "tp2m": 11,
+      "ur2m": 74,
+      "v10m": 69
+    }
+  },
+  {
+    "datetime": 2016110320,
+    "data": {
+      "ocis": 6,
+      "prec": 57,
+      "tp2m": 0,
+      "ur2m": 23,
+      "v10m": 70
+    }
+  },
+  {
+    "datetime": 2016110321,
+    "data": {
+      "ocis": 65,
+      "prec": 81,
+      "tp2m": 20,
+      "ur2m": 19,
+      "v10m": 85
+    }
+  },
+  {
+    "datetime": 2016110322,
+    "data": {
+      "ocis": 91,
+      "prec": 5,
+      "tp2m": 29,
+      "ur2m": 28,
+      "v10m": 25
+    }
+  },
+  {
+    "datetime": 2016110323,
+    "data": {
+      "ocis": 70,
+      "prec": 11,
+      "tp2m": 22,
+      "ur2m": 38,
+      "v10m": 43
+    }
+  }
+]

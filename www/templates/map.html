@@ -1,0 +1,43 @@
+<ion-view>
+    <ion-content>
+      <div>
+            <label class="item item-input">
+                <i class="icon ion-ios-search placeholder-icon"></i>
+                <input id="address" type="text" placeholder=" Digite uma consulta">
+            </label>
+            <button id="submit" class="button button-dark">
+              SearchBox
+            </button>
+      </div>
+
+      <div>
+          <ion-radio ng-click="GeoPosition()"> Localização</ion-radio>
+          <ion-list>
+            <ion-radio ng-repeat="endereco in meusEnderecos" ng-click="isCkeched(endereco)">{{endereco.id}}</ion-radio>
+          </ion-list>
+
+
+          <button ng-click="salvarMeusEnderecos()" class="button button-balanced">
+            Salvar
+          </button>
+          <button ng-click="" class="button button-assertive">
+            Excluir
+          </button>
+
+      </div>
+
+      <ion-list>
+        <div class="">
+          <ion-item ng-class="" ng-repeat="endereco in meusEnderecos"
+            <i>{{endereco.id}}</i>
+            <i>{{endereco.lat}}</i>
+            <i>{{endereco.lng}}</i>
+          </ion-item>
+        </div>
+      </ion-list>
+
+      <div id="map"></div>
+
+
+    </ion-content>
+</ion-view>
